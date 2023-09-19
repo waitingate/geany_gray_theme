@@ -1,2 +1,10 @@
 # geany_gray_theme
-Theme for the Geany editor, ldefault theme but with a gray background
+Theme for the Geany editor, like default theme but with a gray background.
+
+
+
+Geany default theme file path
+"C:\Program Files\Geany\data\filedefs\filetypes.common"
+
+Geany theme folder path
+C:\Program Files\Geany\data\colorschemes\
