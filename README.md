@@ -5,7 +5,7 @@ Theme for the Geany editor, like default theme but with a gray background and cl
 
 ## Installation
 
-1. copy the "default_gray.conf" file to Geany theme folder (windows C:\Program Files\Geany\data\colorschemes\).
+1. Copy the "default_gray.conf" file to the Geany theme folder (windows C:\Program Files\Geany\data\colorschemes\).
 
 2. Geany -> view -> change color scheme -> "Default-Gray"
 
